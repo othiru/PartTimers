@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_button_black_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\back_button_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_button_white_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\back_button_white_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\raw_data.json.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\raw\\data.json"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_navigation.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_me.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable-ldpi\\me.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post_successful_animation.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_post_successful_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_more.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_view_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back_button_white_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\back_button_white_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start_page.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_start_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_button_white_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\back_button_white_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_button_black_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\back_button_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_photo.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable-ldpi\\photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_post.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable\\post.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_post.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginbackground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable\\loginbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back_button_black_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\back_button_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\font_arizonia.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\font\\arizonia.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_back_button_black_icon.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back_button_black_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_button_black_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\back_button_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptlogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable\\ptlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_post_list_item.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\post_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_button_black_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\back_button_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_button_white_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\back_button_white_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_button_white_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\back_button_white_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_button_black_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\back_button_black_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_back_button_white_icon.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back_button_white_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signupbackground.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\drawable\\signupbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_button_white_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\back_button_white_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\PartTimers200\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    }
+]
